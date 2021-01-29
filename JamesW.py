@@ -1,0 +1,1 @@
+print('Lovely Thursday we have here')
